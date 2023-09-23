@@ -9,7 +9,6 @@
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathdiaz&show_icons=true&theme=dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathdiaz&layout=compact)
 
 ### Tecnologias
 
