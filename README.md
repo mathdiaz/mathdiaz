@@ -4,7 +4,7 @@
 )](https://www.linkedin.com/in/matheus-felipe-8a9017155/)
 
 [![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-)](https://web.telegram.org/k/)
+)](https://t.me/dev_dias)
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/di.mattheus/)
