@@ -6,3 +6,5 @@
 )](https://t.me/dev_dias)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/di.mattheus/)
+
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathdiaz&show_icons=true&theme=dark)
